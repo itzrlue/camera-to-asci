@@ -1,6 +1,5 @@
 # Camera ASCII
-Test : 
-<img width="627" height="520" alt="Screenshot 2026-11-11 155944" src="https://github.com/user-attachments/assets/ca0f3f45-49f9-4fb3-b634-45a663dd59b4" />
+
 
 
 Capture a webcam, convert it to real-time ASCII art, render it in the terminal, and broadcast the result as a virtual camera.
